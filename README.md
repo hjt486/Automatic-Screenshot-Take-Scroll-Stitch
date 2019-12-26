@@ -3,7 +3,7 @@
 
 There are a lot of websites that use server side rendering to only show part of the hi-res photo, in order to ask the users to pay for the photo, this is a script that automatically move cursor, do click, scroll action, and then take screenshots, and stitch them together to have the hi-res photo.
 
-**Claim: Either this script or its author(myself) has the intention to get the copyright photo from anyone or any organization, the code is used as academic purpose and it is neutral, the one who used the code will take full responsibility of any consequence it may cause.**
+**Claim: Neither this script or its author(myself) has the intention to get the copyright photo from anyone or any organization, the code is used as academic purpose and it is neutral, the one who used the code will take full responsibility of any consequence it may cause.**
 
 
 
